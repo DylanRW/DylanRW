@@ -1,4 +1,6 @@
-<img src="https://makeagif.com/i/fq_TPt" style="height: 100% , width:100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJndGR2a2szcWduejhhamM4a3FxYXg4MzhsMnE2d2lkOW4wdzdjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KO5RuSgyQ7R8MJbh1w/giphy.gif" alt="Animated GIF" style="width: 100%; height: auto;">
+</body>
+</html>
 <h1 align="center">Soy Dylan Ramírez WItcher</h1
 <h3 align="center">Soy estudiante de CCCSP, me gusta la quimica y estoy intentando de llegar a la IChO.</h3>
 
